@@ -4,6 +4,9 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.Properties;
 
+
+//these constant will be initialized based in the ent in our main properties file
+
 public class Environment {
     public static final String URL;
     public static final String DB_USERNAME;
